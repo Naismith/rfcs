@@ -1,6 +1,6 @@
 - Repo: eslint/eslint
 - Start Date: 2026-10-09
-- RFC PR: <!-- TODO -->
+- RFC PR: https://github.com/eslint/rfcs/pull/155
 - Authors: @Naismith
 
 ## Summary
